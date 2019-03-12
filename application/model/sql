@@ -1,0 +1,18 @@
+CREATE DATABASE controle;
+USE controle;
+
+CREATE TABLE `controle`.`usuarios` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `hash_id` VARCHAR(45) NULL,
+  `nome` VARCHAR(255) NULL,
+  `email` VARCHAR(255) NULL,
+  `senha` VARCHAR(45) NULL,
+  `perfil` SMALLINT(2) NULL,
+  `ativo` SMALLINT(1) NULL,
+  PRIMARY KEY (`id`));
+
+INSERT INTO `usuarios` (`id`, `hash_id`, `nome`, `email`, `senha`, `perfil`, `ativo`) VALUES
+(1, '15482506375c486e0d4f664',  'Leandro', 'leandroj.r.ximenes@gmail.com', 'e10adc3949ba59abbe56e057f20f883e', 1,  1);
+
+
+SELECT * FROM usuarios;

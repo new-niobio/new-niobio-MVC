@@ -1,0 +1,75 @@
+.navbar-toggle{
+    background-color: #23527c;
+    float: left;
+}
+
+.icon-bar{
+    background: white;
+    color: white;
+}
+.menu .active{
+    color: #555;
+    cursor: default;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent!important;
+    border-radius: 2px;
+}
+
+.strong{
+    font-weight: bolder;
+    color: #a94442;
+}
+
+.strong a{
+    font-weight: bold;
+    color: #a94442;
+    text-decoration: underline
+}
+
+.green{
+    color: #155724;
+}
+
+.red{
+    color: #721c24;
+}
+
+.ocultar{
+    display: none;
+}
+
+thead, .total{
+    font-weight: bold;
+}
+
+.kv-fileinput-caption{
+    width: 170px !important;
+}
+
+.panel h4, .panel label{
+    cursor: pointer;
+}
+
+.remove{
+    text-align: center;
+    cursor: pointer;
+}
+td .remove:hover, .remove:hover{
+    background: #ebcccc!important;
+    font-weight: bolder;
+}
+.remove span{
+    padding: 7px;
+}
+.save{
+    text-align: center;
+    cursor: pointer;
+}
+.save:hover{
+    background: #dff0d8;;
+    font-weight: bolder;
+}
+.save span{
+    padding: 7px;
+}
