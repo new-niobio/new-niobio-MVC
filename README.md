@@ -59,7 +59,7 @@ CREATE TABLE `example` (
 
 ```bash
 
-Niobio
+new-niobio-mvc
 ├── application
 │   ├── control
 │   │   ├── AdminController.php
