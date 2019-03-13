@@ -1,4 +1,4 @@
-# Niobio PHP MVC
+# New Niobio PHP MVC
 
 These is a simple MVC.
 # Examples
@@ -130,4 +130,4 @@ CREATE TABLE `student` (
 
 ## License
 
-Niobio MVC Examples is open source software licensed. 
+New Niobio MVC Examples is open source software licensed. 
