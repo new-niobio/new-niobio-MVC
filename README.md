@@ -4,13 +4,12 @@ These is a simple MVC.
 # Examples
 
 ## public
-public access index: https://leandroximenes.000webhostapp.com/<br/>
-public access example: https://leandroximenes.000webhostapp.com/contato<br/>
-public access 404: https://leandroximenes.000webhostapp.com/sdfsdf<br/>
+public access index;<br/>
+public access example: /contato<br/>
+public access 404: /sdfsdf<br/>
 
 
 ## Admin
-public access admin: https://leandroximenes.000webhostapp.com/admin<br/>
 email: leandroj.r.ximenes@gmail.com<br/>
 senha: 123456<br/>
 
